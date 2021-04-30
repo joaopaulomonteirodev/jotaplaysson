@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joao Paulo (@jotaplaysson)
 - 👀 I’m interested in to be 1% better each day
-- 🌱 I’m currently learning Reac-Native
+- 🌊 I’m diving into React-Native with Typescript
 - 📫 How to reach me:
 [E-mail](jpmonteiro64@gmail.com) /
 [LinkedIn](https://www.linkedin.com/in/joaopaulovcmonteiro/)
